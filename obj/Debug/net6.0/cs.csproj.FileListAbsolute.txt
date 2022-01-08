@@ -1,0 +1,15 @@
+/home/baha/cs/bin/Debug/net6.0/cs
+/home/baha/cs/bin/Debug/net6.0/cs.deps.json
+/home/baha/cs/bin/Debug/net6.0/cs.runtimeconfig.json
+/home/baha/cs/bin/Debug/net6.0/cs.dll
+/home/baha/cs/bin/Debug/net6.0/ref/cs.dll
+/home/baha/cs/bin/Debug/net6.0/cs.pdb
+/home/baha/cs/obj/Debug/net6.0/cs.csproj.AssemblyReference.cache
+/home/baha/cs/obj/Debug/net6.0/cs.GeneratedMSBuildEditorConfig.editorconfig
+/home/baha/cs/obj/Debug/net6.0/cs.AssemblyInfoInputs.cache
+/home/baha/cs/obj/Debug/net6.0/cs.AssemblyInfo.cs
+/home/baha/cs/obj/Debug/net6.0/cs.csproj.CoreCompileInputs.cache
+/home/baha/cs/obj/Debug/net6.0/cs.dll
+/home/baha/cs/obj/Debug/net6.0/ref/cs.dll
+/home/baha/cs/obj/Debug/net6.0/cs.pdb
+/home/baha/cs/obj/Debug/net6.0/cs.genruntimeconfig.cache
